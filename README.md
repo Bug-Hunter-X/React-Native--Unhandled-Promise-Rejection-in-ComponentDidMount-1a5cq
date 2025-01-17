@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native applications: accessing state variables before they have been initialized.  The `bug.js` file shows the problematic code that leads to an error. The `bugSolution.js` file provides a solution using conditional rendering to prevent the error.
